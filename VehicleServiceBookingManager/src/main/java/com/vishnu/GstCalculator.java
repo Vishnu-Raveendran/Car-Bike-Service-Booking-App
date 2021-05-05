@@ -15,7 +15,7 @@ public class GstCalculator {
 //		}
 
 	/**
-	 * accepts the service charge for car and returns the GST amount(18%)
+	 * accepts the service charge for car and returns GST amount(18%)
 	 * 
 	 * @param totalAmount
 	 * @return
