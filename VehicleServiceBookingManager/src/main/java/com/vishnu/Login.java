@@ -12,8 +12,8 @@ public class Login {
 	}
 
 	/**
-	 * Returns true if given user-name and password have 10 and 8 characters
-	 * respectively else returns false
+	 * Returns true if given user-name and password are valid
+	 * else returns false
 	 * 
 	 * @param userName
 	 * @param passWord
